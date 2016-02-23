@@ -22,5 +22,9 @@ public class HelloWorldJava {
 	public void print(String text){
 		System.out.println(text+"Testing");
 	}
+	
+	public void newMEthod(String text){
+		System.out.println(text+"Testing");
+	}
 
 }
