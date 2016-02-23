@@ -12,6 +12,7 @@ public class HelloWorldJava {
 
 		print("Hello Git");
 		print("Hello!!!!!This is Project3");
+		print("Hello!!!!!","This is Project3");
 		
 		
 		
