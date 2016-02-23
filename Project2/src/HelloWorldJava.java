@@ -28,5 +28,8 @@ public class HelloWorldJava {
 	public void print(String text,String text1){
 		System.out.println(text+"Testing"+text1);
 	}
+	public void printMethod(String text,String text1){
+		System.out.println(text+"Testing"+text1);
+	}
 
 }
